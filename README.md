@@ -1,4 +1,4 @@
-# app-diabetes
+# APP PARA PACIENTES DIABÉTICOS
 
 ## Descripción
 Está diseñada para ayudar a personas con diabetes y controlar su enfermedad de forma sencilla y dinámica. La app permite registrar niveles de glucosa, recibir recordatorios de medicación y visualizar el historial de datos para mejorar el seguimiento de la salud.
